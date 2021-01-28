@@ -1,13 +1,15 @@
 # testcafe-cucumber-automationpractice
 
+[![Build Status](https://travis-ci.com/shibashis/testcafe-cucumber-automationpractice.svg?branch=master)](https://travis-ci.com/shibashis/testcafe-cucumber-automationpractice)
+
 Sample automation tests for automationpractice web app using testcafe and cucumberjs.
 
 ### How to run
 
 1. Install typescript globally `npm i -g typescript`
 1. Clone the repo
-2. Install dependencies: `npm i`
-3. Run tests: `npm run test`
+1. Install dependencies: `npm i`
+1. Run tests: `npm run test`
 
 ### Note
 
